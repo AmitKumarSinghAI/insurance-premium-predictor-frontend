@@ -4,6 +4,7 @@ import requests
 # ------------------------------------------------------------
 # 🌐 FastAPI backend URL
 # ------------------------------------------------------------
+
 API_URL = "https://insurance-premium-predictor-fastapi-yyy4.onrender.com/predict"
 
 
