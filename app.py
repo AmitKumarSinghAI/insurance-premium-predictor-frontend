@@ -4,7 +4,7 @@ import requests
 # ------------------------------------------------------------
 # 🌐 FastAPI backend URL
 # ------------------------------------------------------------
-API_URL = "https://insurance-premium-predictor-fastapi.onrender.com"
+API_URL = "https://insurance-premium-predictor-fastapi-qmyb.onrender.com"
 
 # ------------------------------------------------------------
 # 🏠 Page Configuration
