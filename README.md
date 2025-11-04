@@ -23,7 +23,6 @@ It’s built with:
 |------------|-------------|
 | **Frontend** | Streamlit |
 | **Backend** | FastAPI |
-| **Database** | MongoDB |
 | **Model** | Scikit-Learn |
 | **Language** | Python |
 | **Deployment** | Render |
