@@ -6,7 +6,6 @@ This is a **Machine Learning–powered Insurance Premium Prediction System** tha
 It’s built with:
 - 🧠 **FastAPI** → Backend & ML model hosting  
 - 🎨 **Streamlit** → Frontend UI  
-- 🗄️ **MongoDB** → Database for user data storage  
 - ⚙️ **Scikit-Learn** → Model training and prediction  
 
 ---
